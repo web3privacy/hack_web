@@ -1,4 +1,4 @@
-/* v0.8 of CSS stylesheet for the Web3Privacy Events websites - source: https://github.com/web3privacy/events_web */
+/* v0.1 of CSS stylesheet for the Web3Privacy Hacks websites - source: https://github.com/web3privacy/hack_web */
 /* major-mono-display-regular - latin */
 @font-face {
 	font-family: 'Major Mono Display';
@@ -406,7 +406,7 @@ footer a:hover,
 	text-decoration-line: none;
 }
 .markdown.multiline > p:not(:last-child) {
-	margin-bottom: 2.5rem;
+	margin-bottom: 1rem;
 }
 .middle-pane-medium {
 	margin-left: auto;
